@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deployedLegpuzzel/static/css/main.9eeec6c5.chunk.css",
+    "main.js": "/deployedLegpuzzel/static/js/main.9f9890a4.chunk.js",
+    "main.js.map": "/deployedLegpuzzel/static/js/main.9f9890a4.chunk.js.map",
+    "runtime-main.js": "/deployedLegpuzzel/static/js/runtime-main.12a71b55.js",
+    "runtime-main.js.map": "/deployedLegpuzzel/static/js/runtime-main.12a71b55.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/deployedLegpuzzel/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.06649fef.chunk.js": "/deployedLegpuzzel/static/js/2.06649fef.chunk.js",
+    "static/js/2.06649fef.chunk.js.map": "/deployedLegpuzzel/static/js/2.06649fef.chunk.js.map",
+    "index.html": "/deployedLegpuzzel/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/deployedLegpuzzel/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.9eeec6c5.chunk.css.map": "/deployedLegpuzzel/static/css/main.9eeec6c5.chunk.css.map",
+    "static/js/2.06649fef.chunk.js.LICENSE.txt": "/deployedLegpuzzel/static/js/2.06649fef.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/deployedLegpuzzel/static/media/9.daca5073.png",
+    "static/media/grass.79eb72e6.png": "/deployedLegpuzzel/static/media/grass.79eb72e6.png",
+    "static/media/mole.5c48ee60.png": "/deployedLegpuzzel/static/media/mole.5c48ee60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a71b55.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.06649fef.chunk.js",
+    "static/css/main.9eeec6c5.chunk.css",
+    "static/js/main.9f9890a4.chunk.js"
+  ]
+}
