@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deployedLegpuzzel/static/css/main.9eeec6c5.chunk.css",
-    "main.js": "/deployedLegpuzzel/static/js/main.1dd99e60.chunk.js",
-    "main.js.map": "/deployedLegpuzzel/static/js/main.1dd99e60.chunk.js.map",
+    "main.js": "/deployedLegpuzzel/static/js/main.2575c92e.chunk.js",
+    "main.js.map": "/deployedLegpuzzel/static/js/main.2575c92e.chunk.js.map",
     "runtime-main.js": "/deployedLegpuzzel/static/js/runtime-main.12a71b55.js",
     "runtime-main.js.map": "/deployedLegpuzzel/static/js/runtime-main.12a71b55.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/deployedLegpuzzel/static/css/2.20aa2d7b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.1daabe59.chunk.js",
     "static/css/main.9eeec6c5.chunk.css",
-    "static/js/main.1dd99e60.chunk.js"
+    "static/js/main.2575c92e.chunk.js"
   ]
 }
